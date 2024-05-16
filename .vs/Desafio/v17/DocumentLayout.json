@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rjgan\\source\\repos\\Desafio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\services\\averageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:services\\averageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\models\\registromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:models\\registromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\controllers\\buscarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:controllers\\buscarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\controllers\\averagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:controllers\\averagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\services\\iaverageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:services\\iaverageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\services\\buscarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:services\\buscarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\services\\ibuscarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:services\\ibuscarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\services\\registroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:services\\registroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\services\\iregistroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:services\\iregistroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|c:\\users\\rjgan\\source\\repos\\desafio\\scripts sql\\scripts.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D226B302-3DD1-40C7-B1DD-F987933EC5B1}|Desafio.csproj|solutionrelative:scripts sql\\scripts.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AverageService.cs",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Services\\AverageService.cs",
+              "RelativeDocumentMoniker": "Services\\AverageService.cs",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Services\\AverageService.cs",
+              "RelativeToolTip": "Services\\AverageService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAywB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:03:55.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuscarController.cs",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Controllers\\BuscarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BuscarController.cs",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Controllers\\BuscarController.cs",
+              "RelativeToolTip": "Controllers\\BuscarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:25:52.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AverageController.cs",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Controllers\\AverageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AverageController.cs",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Controllers\\AverageController.cs",
+              "RelativeToolTip": "Controllers\\AverageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:26:56.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "Controllers\\RegistroController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:25:11.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:11:22.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Models\\Registro.cs",
+              "RelativeDocumentMoniker": "Models\\Registro.cs",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Models\\Registro.cs",
+              "RelativeToolTip": "Models\\Registro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:09:41.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroModel.cs",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Models\\RegistroModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegistroModel.cs",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Models\\RegistroModel.cs",
+              "RelativeToolTip": "Models\\RegistroModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:30:02.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAverageService.cs",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Services\\IAverageService.cs",
+              "RelativeDocumentMoniker": "Services\\IAverageService.cs",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Services\\IAverageService.cs",
+              "RelativeToolTip": "Services\\IAverageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:08:46.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BuscarService.cs",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Services\\BuscarService.cs",
+              "RelativeDocumentMoniker": "Services\\BuscarService.cs",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Services\\BuscarService.cs",
+              "RelativeToolTip": "Services\\BuscarService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:03:20.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBuscarService.cs",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Services\\IBuscarService.cs",
+              "RelativeDocumentMoniker": "Services\\IBuscarService.cs",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Services\\IBuscarService.cs",
+              "RelativeToolTip": "Services\\IBuscarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:07:56.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistroService.cs",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Services\\RegistroService.cs",
+              "RelativeDocumentMoniker": "Services\\RegistroService.cs",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Services\\RegistroService.cs",
+              "RelativeToolTip": "Services\\RegistroService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwCEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:01:07.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRegistroService.cs",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Services\\IRegistroService.cs",
+              "RelativeDocumentMoniker": "Services\\IRegistroService.cs",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Services\\IRegistroService.cs",
+              "RelativeToolTip": "Services\\IRegistroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:06:44.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Scripts.txt",
+              "DocumentMoniker": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Scripts Sql\\Scripts.txt",
+              "RelativeDocumentMoniker": "Scripts Sql\\Scripts.txt",
+              "ToolTip": "C:\\Users\\rjgan\\source\\repos\\Desafio\\Scripts Sql\\Scripts.txt",
+              "RelativeToolTip": "Scripts Sql\\Scripts.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-16T21:16:06.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

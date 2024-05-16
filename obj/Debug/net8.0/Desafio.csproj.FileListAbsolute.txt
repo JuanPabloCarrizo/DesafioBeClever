@@ -1,0 +1,7 @@
+C:\Users\rjgan\source\repos\Desafio\obj\Debug\net8.0\Desafio.csproj.AssemblyReference.cache
+C:\Users\rjgan\source\repos\Desafio\obj\Debug\net8.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjgan\source\repos\Desafio\obj\Debug\net8.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\rjgan\source\repos\Desafio\obj\Debug\net8.0\Desafio.AssemblyInfo.cs
+C:\Users\rjgan\source\repos\Desafio\obj\Debug\net8.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\rjgan\source\repos\Desafio\obj\Debug\net8.0\Desafio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rjgan\source\repos\Desafio\obj\Debug\net8.0\Desafio.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,16 @@
+﻿
+CREATE TABLE Registro (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    IdEmployee INT NOT NULL,
+    Date DATETIME NOT NULL,
+    RegisterType VARCHAR(10) NOT NULL,
+    BusinessLocation VARCHAR(50) NOT NULL
+);
+
+
+CREATE TABLE Empleados (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    FirstName VARCHAR(50) NOT NULL,
+    LastName VARCHAR(50) NOT NULL,
+    Gender VARCHAR(10) NOT NULL
+);

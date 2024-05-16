@@ -1,0 +1,26 @@
+﻿# .NET files
+bin/
+obj/
+*.log
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider project files
+.idea/
+*.iml
+
+# VS Code files
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+patches
+
+# Rider log directories
+.idea/httpRequests
